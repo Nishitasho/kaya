@@ -1,0 +1,13 @@
+.git
+.git/**
+.agents
+.agents/**
+.codex
+.codex/**
+.DS_Store
+README.md
+wrangler.toml
+.assetsignore
+.gitignore
+outputs
+outputs/**
