@@ -6,7 +6,7 @@
 .codex/**
 .DS_Store
 README.md
-wrangler.toml
+wrangler.jsonc
 .assetsignore
 .gitignore
 outputs

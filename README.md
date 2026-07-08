@@ -10,7 +10,7 @@ KAYAの実店舗情報と店舗の特徴を反映した、Cloudflare Pages向け
 - Deploy command: `npx wrangler deploy`
 
 GitHubリポジトリをCloudflare Pagesへ接続すると、push後に自動デプロイされます。
-Cloudflare側で `npx wrangler deploy` を使う場合に備え、`wrangler.toml` で静的アセット配信を設定しています。
+Cloudflare側で `npx wrangler deploy` を使う場合に備え、`wrangler.jsonc` で静的アセット配信を設定しています。
 
 ## 公開前の確認
 
